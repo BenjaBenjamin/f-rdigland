@@ -166,6 +166,7 @@ li.dropdown {
     padding-left: 1vw;
     border: solid black 3px;
     border-left: none;
+    font-family: 'Lato', sans-serif;
 }
 
 .text_box2 {
@@ -180,6 +181,7 @@ li.dropdown {
     padding-left: 1vw;
     border: solid black 3px;
     border-left: none;
+    font-family: 'Lato', sans-serif;
 }
 
 .text_box3 {
@@ -194,6 +196,7 @@ li.dropdown {
     padding-left: 1vw;
     border: solid black 3px;
     border-left: none;
+    font-family: 'Lato', sans-serif;
 }
 
 .text_box4 {
@@ -208,6 +211,7 @@ li.dropdown {
     padding-left: 1vw;
     border: solid black 3px;
     border-left: none;
+    font-family: 'Lato', sans-serif;
 }
 
 
@@ -405,6 +409,7 @@ footer p {
     font-size: 1.1rem;
     letter-spacing: 1px;
     margin: 2vw;
+    font-family: 'Lato', sans-serif;
 }
 
 
